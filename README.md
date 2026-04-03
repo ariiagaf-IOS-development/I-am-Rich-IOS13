@@ -22,7 +22,7 @@ The App Brewery - iOS Development Bootcamp
 
 ## Скриншоты
 
-(будет добавлено)
+<img width="307" height="556" alt="Снимок экрана 2026-04-03 в 23 18 42" src="https://github.com/user-attachments/assets/1dc3ee06-fe01-4694-9cc1-6ba7aada7dd9" />
 
 ---
 
@@ -49,4 +49,4 @@ The App Brewery - iOS Development Bootcamp
 
 ## Screenshots
 
-(to be added)
+<img width="307" height="556" alt="Снимок экрана 2026-04-03 в 23 18 42" src="https://github.com/user-attachments/assets/1dc3ee06-fe01-4694-9cc1-6ba7aada7dd9" />
