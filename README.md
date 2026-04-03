@@ -20,6 +20,11 @@ iOS приложение, которое отображает бриллиант
 
 The App Brewery - iOS Development Bootcamp
 
+## Авторские права
+
+Оригинальный дизайн и материалы курса принадлежат The App Brewery (Angela Yu).  
+Код реализован Ариной Агафоновой в учебных целях.
+
 ## Скриншоты
 
 <img width="307" height="556" alt="Снимок экрана 2026-04-03 в 23 18 42" src="https://github.com/user-attachments/assets/1dc3ee06-fe01-4694-9cc1-6ba7aada7dd9" />
@@ -46,6 +51,11 @@ iOS app that displays a diamond on the screen.
 ## Course
 
 The App Brewery - iOS Development Bootcamp
+
+## Copyright
+
+Original design and course materials belong to The App Brewery (Angela Yu).  
+Code implemented by Arina Agafonova for educational purposes.
 
 ## Screenshots
 
